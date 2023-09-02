@@ -1,0 +1,93 @@
+prashanthkumar.assp@gmail.com
+Prashanth@1994
+==========================================
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+
+
+<head>
+        <title>create my website</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="web.js"></script>
+        
+    </head>
+    <body>
+       
+        <div class="mainclass">
+            <li class="box">box today my task</li>
+            <li class="box">create  my own website</li>
+            <li class="box">This is my website creation in fluid elements today i have easly understand in my class and i started my task on todayextraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa11111111111111122222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222333333</li>
+        </div>
+        <style>
+            .mainclass{
+                list-style: none;
+                width: 70%;
+                height: 5px solid green;
+                overflow:hidden;
+            }
+            .box{
+                width:60%;
+                border: 5px ridge red;
+                overflow: scroll;
+            }
+        </style>
+        <div>
+            <ul class="menu">
+                <li class="items"><a href="#website">Website</a></li>
+                <li class="items"><a href="#history">History</a></li>
+                <li class="items"><a href="#video">Video</a></li>
+                <li class="items"><a href="#content">Content</a></li>
+                
+            </ul>
+        </div>
+        <div>
+            <section id="website">
+                <center>
+                    <h1>The creation of website</h1><br>
+                    <style>
+                        @media screen and (max-width:900px){
+                            body{
+                                font-family:fantasy;
+                                background-color:aqua;
+                                font-size: 25px;
+                            }
+                        }
+                        @media screen and (max-width:700){
+                            body{
+                                font-family: cursive;
+                                background-color: aqua;
+                                font-size: 30px;
+                            }
+                        }
+                    </style>
+                    <div>
+                        <div class="flex-container">
+                            <div class="flex-item"><img src="my%20office.png"></div>
+                            
+                        </div>
+                        
+                    </div>
+                    <p>
+                        Background
+Further information: History of the World Wide Web
+
+The nasa.gov home page in 2015
+The World Wide Web (WWW) was created in 1989 by the British CERN computer scientist Tim Berners-Lee.[1][2] On 30 April 1993, CERN announced that the World Wide Web would be free to use for anyone, contributing to the immense growth of the Web.[3] Before the introduction of the Hypertext Transfer Protocol (HTTP), other protocols such as File Transfer Protocol and the gopher protocol were used to retrieve individual files from a server. These protocols offer a simple directory structure in which the user navigates and where they choose files to download. Documents were most often presented as plain text files without formatting or were encoded in word processor formats.<br>
+
+History
+While "web site" was the original spelling (sometimes capitalized "Web site", since "Web" is a proper noun when referring to the World Wide Web), this variant has become rarely used, and "website" has become the standard spelling. All major style guides, such as The Chicago Manual of Style[4] and the AP Stylebook,[5] have reflected this change.<br>
+
+In February 2009, Netcraft, an Internet monitoring company that has tracked Web growth since 1995, reported that there were 215,675,903 websites with domain names and content on them in 2009, compared to just 19,732 websites in August 1995.[6] After reaching 1 billion websites in September 2014, a milestone confirmed by Netcraft in its October 2014 Web Server Survey and that Internet Live Stats was the first to announce—as attested by this tweet from the inventor of the World Wide Web himself, Tim Berners-Lee—the number of websites in the world have subsequently declined, reverting to a level below 1 billion. This is due to the monthly fluctuations in the count of inactive websites. The number of websites continued growing to over 1 billion by March 2016 and has continued growing since.[7] Netcraft Web Server Survey in January 2020 reported that there are 1,295,973,827 websites and in April 2021 reported that there are 1,212,139,815 sites across 10,939,637 web-facing computers, and 264,469,666 unique domains.[8] An estimated 85 percent of all websites are inactive.[9]
+                    </p>
+                    
+                    
+                </center>
+            </section>
+        </div>
+      
+       
+    </body>
+    
+
+</html>
